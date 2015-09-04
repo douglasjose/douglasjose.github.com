@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/douglasjose
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://douglasjose.com
+  * I am douglasjose (https://keybase.io/douglasjose) on keybase.
+  * I have a public key with fingerprint E01C 11EC 8375 BB13 FD22  2CAC 91D7 05ED 400F 52DF
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "e01c11ec8375bb13fd222cac91d705ed400f52df",
+            "host": "keybase.io",
+            "key_id": "91d705ed400f52df",
+            "kid": "0101d5489afb509c25171d6640a6d47ea98b0c146988978b78e7e6583205681f1e550a",
+            "uid": "9398b8410499253797a88e5b18b10919",
+            "username": "douglasjose"
+        },
+        "service": {
+            "hostname": "douglasjose.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1441339960,
+    "expire_in": 157680000,
+    "prev": "8bf885fd5838ae17bedcc41525d7193a2caced847fbbea9084c58772387ccb51",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFtkm1IFEEYx+88tTwI7UMvSBQuiFomO7s7u7NHQSmo+CHy9Xohzp2d2bvV7va6
+O09FQ79oZ1BpSIYYUYKhJAhRoVRgHyoqCMPIpBD7UmJlmBUEZbO9fKr5Mszz/J7/
+M/9npnudy+F29jxPeb8nvWLO+WgBO6oXMotaOGyRZs7TwtXTX5thhvw0Eo6YoRjn
+4SgPdACojkQFYgxEgwiCoGu6CojCQ0oknjegQAwunwtYUbuCyWAtSgtMi8XYwWcS
+Fv0PX/8rwQMeECghVTMw5FVdgEABRJYlXpOJpFBNRZjXgSSrCKkKwgqiCpUhEgUe
+yggYgELIa0yu4XcfkfFIArykqgIUFVXREKIQA4QBrwLVBqM0EtKClNHEavAf1aJ1
+VpRyx/M5loibOrWnYJv5FyrQrSBTCEesmKVbR1kyEIuFPXZtrDlsw40U+/7I+LAZ
+ImyYrCBOI1HTCnEewEg9Ztq6QJKAKKqqzOdztClsRqjPtAmoyIhny25D40wSYQMh
+aBDmGWkUKJgSXZcAFCBRgCpq9nNQgiTFwJiNi0eSDpGiCCJSdB1DwNnGjoUsziOx
+a2p+Jhk1/SFtTawhwmy7u5xbkh1OtyM1Jcn+EA53WsbfX1JVtNbRHc1PH6uYftaW
+3LrCyS094yc3tM0/yV0a6tv37UFrFs49/225687qy3hJzUYymZk11OP93HnxSkfa
+q+ScyxcCT3e9u/Xp4ODYzuFrOwo2u4K48nTi7vX1mWWenB+CL0gKE+hEf/G9q7Pg
+deWDlYerp94ECuePrbzwZN3exm2rbRrqPLz9kNd//3pNOJE6tdw7U/JjaNCX2Ppk
+6cNiWkfW24/l+vLodO2Z9sWRcfdyYsLIHqjqG9ldngIOlB7JMya9c7EPZa7v/bmL
+UzdWd/d4Wy8lEdfnstH9swMbSjOWNrXV9q/WtY/mzQxnP+7jWuRzNTf3TjSePdBb
++OXr14/VxTt/Ag==
+=1XAK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/douglasjose
+
+==================================================================
+

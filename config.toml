@@ -1,0 +1,41 @@
+## Basic Configuration
+
+baseurl = "http://douglasjo.se" 
+canonifyurls = true
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Douglas José"
+title = "Douglas José"
+
+theme = "hugo-goa"
+
+## Site Settings
+[params]
+author = "Douglas José"
+intro = "Software Developer"
+#description = "Working on a description..."
+#authorImage = "headshot.jpg"
+#dateFormat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+#description = "Simple minimalist theme"
+#keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+twitter = "douglasjose"
+
+## Extras
+[params.extra]
+
+## Main Menu
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Douglas José</title>
+    <link>http://douglasjo.se/categories/about/index.xml</link>
+    <description>Recent content on Douglas José</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="http://douglasjo.se/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://douglasjo.se/about/</link>
+      <pubDate>Mon, 21 Nov 2016 21:45:49 -0500</pubDate>
+      
+      <guid>http://douglasjo.se/about/</guid>
+      <description>&lt;p&gt;Douglas José.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
